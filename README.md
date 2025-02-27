@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Szczepan, a third-year **Automation and Robotics** student at **AGH University of Science and Technology**, passionate about **data science, machine learning, and game programming**. My interests range from **video game development and data analysis** to **modern physics** 🔭.
+I'm Szczepan, a third-year **Automation and Robotics** student at **AGH University of Science and Technology**, passionate about **data science, game programming** and broadly determined **software development**. Outside of coding, I enjoy fitness and exploring topics in **modern physics** 🔭.
 
-I'm currently studying the book *Introduction to Statistical Learning* and trying to improve my cloud computing skills to land my dream job as a **data scientist**.
-
+<!-- I'm currently studying the book *Introduction to Statistical Learning* and trying to improve my cloud computing skills.
+-->
 
 ## 🔧 Technologies and Tools:
 
